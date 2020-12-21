@@ -13,6 +13,7 @@ const imageUrls = [
   "https://tenor.com/view/bonk-bongo-cat-hit-head-cat-hat-girl-gif-15558946",
   "https://tenor.com/view/jacobooghe-personal-slap-hit-head-gif-17911889",
   "https://tenor.com/view/slap-gif-9342231",
+  "https://tenor.com/view/head-hit-anime-cute-gif-15150394",
 ];
 
 bot.on("message", (msg) => {

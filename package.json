@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start:dev": "node bot.js"
+    "start:dev": "nodemon bot.js"
   },
   "author": "Emmanuel Rocha",
   "license": "ISC",
